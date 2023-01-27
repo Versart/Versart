@@ -1,7 +1,7 @@
 ## Olá, meu nome é Wesley Versart
 - 📗  Estudo Sistemas de Informação no IFMA
 - 🔭 Estudando para ser desenvolvedor Full Stack
-- 🌱 Atualmente estou estudando front-end
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
