@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Versart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Versart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Versart&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -20,13 +20,12 @@
   <img align="center" alt="Icon-Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 </div>
 
-  ##
-<div> 
-  <a href = "mailto:wesleyversart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-versart-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
+
+ ### 📓 Minhas redes
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-ktqpxemok-versarts-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-versart-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Versart)
  
- 
- 
-</div>
 
 
